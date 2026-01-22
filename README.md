@@ -185,9 +185,3 @@ You can extend this project by:
 Add a license file (e.g., MIT, GPL-3.0) to clarify usage and distribution permissions.
 
 ---
-
-If you want, I can **generate a polished `requirements.txt`** for this project automatically from the imports in your code/notebook — just let me know!
-
-[1]: https://github.com/611noorsaeed/Crop-Recommendation-System-Using-Machine-Learning?utm_source=chatgpt.com "Crop Recommendation System Using Machine Learning"
-[2]: https://github.com/KRUTHIKTR/Crop-Recommendation-System-Using-Machine-Learning?utm_source=chatgpt.com "Crop-Recommendation-System-Using-Machine-Learning"
-[3]: https://en.wikipedia.org/wiki/Scikit-learn?utm_source=chatgpt.com "Scikit-learn"
